@@ -1,0 +1,2 @@
+C:\Users\EVSTU\source\repos\Helloworld2\Debug\Helloworld2.exe
+C:\Users\EVSTU\source\repos\Helloworld2\Debug\Helloworld2.pdb

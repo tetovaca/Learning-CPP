@@ -1,0 +1,2 @@
+C:\Users\EVSTU\LearningC++\MyPrograms\Change\x64\Debug\Change.exe
+C:\Users\EVSTU\LearningC++\MyPrograms\Change\x64\Debug\Change.pdb

@@ -1,0 +1,10 @@
+﻿  Credit.cpp
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(43,20): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(36,6): message : see declaration of 'i'
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(54,20): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(36,6): message : see declaration of 'i'
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(62,20): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(36,6): message : see declaration of 'i'
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(66,20): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Credit.cpp(36,6): message : see declaration of 'i'
+  Credit.vcxproj -> C:\Users\EVSTU\LearningC++\MyPrograms\Credit\Debug\Credit.exe

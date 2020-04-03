@@ -1,0 +1,2 @@
+C:\Users\EVSTU\LearningC++\MyPrograms\IntegerDoubler\Debug\IntegerDoubler.exe
+C:\Users\EVSTU\LearningC++\MyPrograms\IntegerDoubler\Debug\IntegerDoubler.pdb

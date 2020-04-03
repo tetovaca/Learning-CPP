@@ -1,0 +1,2 @@
+C:\Users\EVSTU\LearningC++\Examples\Function example\Debug\Function example.exe
+C:\Users\EVSTU\LearningC++\Examples\Function example\Debug\Function example.pdb

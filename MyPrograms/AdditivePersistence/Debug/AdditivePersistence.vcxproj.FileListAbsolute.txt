@@ -1,0 +1,2 @@
+C:\Users\EVSTU\LearningC++\MyPrograms\AdditivePersistence\Debug\AdditivePersistence.exe
+C:\Users\EVSTU\LearningC++\MyPrograms\AdditivePersistence\Debug\AdditivePersistence.pdb
